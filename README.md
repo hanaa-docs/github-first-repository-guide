@@ -46,10 +46,10 @@ A README file is the main introductory file in a repository. It is usually named
 
 A README helps explain:
 
-- what the project is
-- what the project does
-- how to use it
-- any important setup or notes
+- What the project is
+- What the project does
+- How to use it
+- Any important setup or notes
 
 For beginner documentation projects, the README is often the main file that visitors will read first.
 
@@ -63,10 +63,10 @@ For beginner documentation projects, the README is often the main file that visi
 
 ### Basic Markdown Tips for README Files
 
-- `#` creates a main heading
-- `##` creates a section heading
-- blank lines improve spacing and readability
-- backticks format file names or commands, such as `README.md` or `python --version`
+- `#` Creates a main heading
+- `##` Creates a section heading
+- Blank lines improve spacing and readability
+- Backticks format file names or commands, such as `README.md` or `python --version`
 
 ## Commit Changes
 
@@ -100,10 +100,10 @@ Creating your first repository and publishing a README is a simple but important
 
 For beginners, this process helps build familiarity with:
 
-- repositories
+- Repositories
 - README files
 - Markdown
-- commits
-- basic project publishing
+- Commits
+- Basic project publishing
 
 These are foundational skills for both developers and technical writers.
